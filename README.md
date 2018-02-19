@@ -1,2 +1,3 @@
 # newfile
-Something short
+Hello Planet Earth!
+My name is SONGOKU!
